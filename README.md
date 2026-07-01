@@ -1,7 +1,5 @@
 # 📊 Sales Analysis Dashboard 2025 | Power BI Project
 
-![Sales Dashboard](Dashboard%20Screenshot.png)
-
 ## 🚀 Project Overview
 
 The **Sales Analysis Dashboard** is an interactive Business Intelligence project developed using **Microsoft Power BI**.
@@ -177,7 +175,7 @@ Helps identify profitable products.
 # 📊 Dashboard Preview
 
 
-![Dashboard](Dashboard%20Screenshot.png)
+![Dashboard](Dashboard.png)
 
 
 ---
